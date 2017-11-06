@@ -1,4 +1,4 @@
-# AI-Learning
+# Artificial Intelligence Learning
 Implementation of Naive Bayes, k-NN, Decision Tree, and MLP using Jupyter Notebook
 
 # Implemented By
